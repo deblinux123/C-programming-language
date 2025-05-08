@@ -46,5 +46,9 @@
 
 1. ابتدا مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/your-username/c-programming-course.git
-   cd c-programming-course
+   git clone https://github.com/your-username/C-programming-language
+
+.git
+   C-programming-language
+
+
