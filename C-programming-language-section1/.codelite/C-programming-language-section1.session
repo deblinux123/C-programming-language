@@ -6,7 +6,7 @@
     <TabInfo>
       <wxString Value="/home/toor/Desktop/C-programming-language/C-programming-language-section1/part1/main.c" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="7" Name="CurrentLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
