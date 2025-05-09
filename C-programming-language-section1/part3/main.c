@@ -8,6 +8,8 @@ int main(int argc, char **argv)
 	printf("This is an compiler warnings %d\n", total);
     
     prinf("And this one gives os error from complier\n");
-    printf(age); // age is not initiolize
+    printf(age); // age undeclared 
+    
+    int score = 10; // unused varable and make error from complier
 	return 0;
 }
