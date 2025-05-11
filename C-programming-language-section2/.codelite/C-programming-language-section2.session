@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="/home/toor/Desktop/C-programming-language/C-programming-language-section1/C-programming-language-section1.workspace">
+<Session Name="/home/toor/Desktop/C-programming-language/C-programming-language-section2/C-programming-language-section2.workspace">
   <int Value="2" Name="m_selectedTab"/>
-  <wxString Value="/home/toor/Desktop/C-programming-language/C-programming-language-section1/C-programming-language-section1.workspace" Name="m_workspaceName"/>
+  <wxString Value="/home/toor/Desktop/C-programming-language/C-programming-language-section2/C-programming-language-section2.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="/home/toor/Desktop/C-programming-language/C-programming-language-section1/part1/main.c" Name="FileName"/>

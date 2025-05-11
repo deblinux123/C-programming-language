@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="C-programming-language-section1" Database="" Version="10000">
   <Project Name="part1" Path="part1/part1.project" Active="No"/>
-  <Project Name="part3" Path="part3/part3.project" Active="No"/>
+  <Project Name="part3" Path="part3/part3.project" Active="Yes"/>
   <Project Name="part4" Path="part4/part4.project" Active="No"/>
-  <Project Name="Challeng" Path="Challeng/Challeng.project" Active="Yes"/>
+  <Project Name="Challeng" Path="Challeng/Challeng.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
