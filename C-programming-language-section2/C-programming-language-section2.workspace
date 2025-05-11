@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="C-programming-language-section2" Database="C-programming-language-section2-root.tags" Version="10000">
-  <Project Name="part1" Path="part1/part1.project" Active="Yes"/>
+  <Project Name="part1" Path="part1/part1.project" Active="No"/>
+  <Project Name="part2" Path="part2/part2.project" Active="No"/>
+  <Project Name="part3" Path="part3/part3.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="part1" ConfigName="Debug"/>
+      <Project Name="part2" ConfigName="Debug"/>
+      <Project Name="part3" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="part1" ConfigName="Release"/>
+      <Project Name="part2" ConfigName="Release"/>
+      <Project Name="part3" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
