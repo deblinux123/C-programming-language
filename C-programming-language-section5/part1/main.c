@@ -17,19 +17,24 @@ int main()
     
     
     
-    int number = 0;
-    printf("\nNow Please enter a number: \n");
-    
-    scanf("%d", &number);
-    
-    if (number % 15 == 0)
-        printf("FIZZBUZZ\n");
-    else if (number % 3 == 0)
-        printf("FIZZ\n");
-    else if (number % 5 == 0)
-        printf("BUZZ\n");
-    else
-        printf("Please enter a valid number.\n");
+//    int number = 0;
+//    printf("\nNow Please enter a number: \n");
+//    
+//    scanf("%d", &number);
+//    
+//    if (number % 15 == 0)
+//        printf("FIZZBUZZ\n");
+//    else if (number % 3 == 0)
+//        printf("FIZZ\n");
+//    else if (number % 5 == 0)
+//        printf("BUZZ\n");
+//    else
+//        printf("Please enter a valid number.\n");
+        
+        
+    // or you can turnary statements
+    int score = 90;
+    printf("your score is %s", score >= 80?"Greate\n":"Not Great\n");
     return 0;
     
 }
