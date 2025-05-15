@@ -26,5 +26,23 @@ int main()
     }
     
     printf("\n\n");
+    
+    int userInput = 0;
+    char game;
+    do
+    {
+        printf("Please enter your number: \n");
+    
+        scanf("%d", &userInput);
         
+        if (userInput % 2 == 0)
+            printf("Your number %d is: EVEN\n", userInput);
+        else
+            printf("Your number %d is: ODD\n", userInput);
+            
+        printf("Do you want to add another number please enter(y/n) \n");
+        scanf(" %c", &game);
+            
+    }
+    while(game != 'n');
 }
