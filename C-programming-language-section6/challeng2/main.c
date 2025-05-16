@@ -35,5 +35,7 @@ int main()
     
     printf("Average is: %.2f\n", average);
     
+    printf("Done.")
+    
     return 0;
 }
