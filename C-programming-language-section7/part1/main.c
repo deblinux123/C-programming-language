@@ -7,12 +7,12 @@
  
  
  // my function
- void printHello(void)
+ void printHello(void) // void means return non type and you can use printf
  {
      printf("Hello from functions\n");
  }
  
- int calculateAge(int year)
+ int calculateAge(int year) // this function return type int value and must use return 
  {
      int current = 1404;
      int age = current - year;
