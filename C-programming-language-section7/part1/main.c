@@ -1,7 +1,32 @@
-#include <stdio.h>
-
-int main(int argc, char **argv)
-{
-	printf("hello world\n");
-	return 0;
-}
+/*
+ * Functions in c
+ */
+ 
+ 
+ #include <stdio.h>
+ 
+ 
+ // my function
+ void printHello(void)
+ {
+     printf("Hello from functions\n");
+ }
+ 
+ int calculateAge(int year)
+ {
+     int current = 1404;
+     int age = current - year;
+     return age;
+ }
+ 
+ int main()
+ {
+     printHello();
+     // calculateAge(1373);
+     
+    // printf("You are %d years old\n", calculateAge(1373));
+     int age = 0; 
+     age = calculateAge(1373); 
+     printf("You are %d years old\n", age);
+     return 0;
+ }
