@@ -5,7 +5,8 @@
   <Project Name="part2" Path="part2/part2.project" Active="No"/>
   <Project Name="part3" Path="part3/part3.project" Active="No"/>
   <Project Name="part4" Path="part4/part4.project" Active="No"/>
-  <Project Name="part5" Path="part5/part5.project" Active="Yes"/>
+  <Project Name="part5" Path="part5/part5.project" Active="No"/>
+  <Project Name="challenge2" Path="challenge2/challenge2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -15,6 +16,7 @@
       <Project Name="part3" ConfigName="Debug"/>
       <Project Name="part4" ConfigName="Debug"/>
       <Project Name="part5" ConfigName="Debug"/>
+      <Project Name="challenge2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -24,6 +26,7 @@
       <Project Name="part3" ConfigName="Release"/>
       <Project Name="part4" ConfigName="Release"/>
       <Project Name="part5" ConfigName="Release"/>
+      <Project Name="challenge2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
