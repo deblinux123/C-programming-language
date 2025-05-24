@@ -27,7 +27,7 @@ int main(int argc, char **argv)
     printf("%d + %d = %d\n", a, b, addTwoNumber);
     
     int multiplyTwoNumber = 0;
-    multiplyTwoNumber = multy(&a, &b);
+    multiplyTwoNumber = multy(&a, &b); // pass by reference
     printf("This is the result for %d * %d = %d\n", a, b, multiplyTwoNumber);
     
 	return 0;
