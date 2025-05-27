@@ -2,13 +2,18 @@
 #include <stdlib.h>
 
 
-int main()
-{
-    struct employee {
+
+ struct employee {
         char name[50];
         int hireDate;
         float salary;
-    };
+};
+
+
+
+int main()
+{
+   
     
     struct employee employ1 = {"jack", 12, 123.900};
     
