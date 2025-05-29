@@ -1,0 +1,4 @@
+hello  this is the testing file
+my name is farid kaki
+todya we will learn all about file input and output
+ok lets go
