@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/home/toor/Desktop/C-programming-language/C-programming-language-section12/C-programming-language-section12.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="1" Name="m_selectedTab"/>
   <wxString Value="/home/toor/Desktop/C-programming-language/C-programming-language-section12/C-programming-language-section12.workspace" Name="m_workspaceName"/>
-  <TabInfoArray Name="TabInfoArray"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/toor/Desktop/C-programming-language/C-programming-language-section12/part3/main.c" Name="FileName"/>
+      <int Value="4" Name="FirstVisibleLine"/>
+      <int Value="6" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/toor/Desktop/C-programming-language/C-programming-language-section12/challenge/main.c" Name="FileName"/>
+      <int Value="8" Name="FirstVisibleLine"/>
+      <int Value="29" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/toor/Desktop/C-programming-language/C-programming-language-section12/part1/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
     <long Value="1" Name="Count"/>
     <SerializedObject Name="Breakpoint0">
